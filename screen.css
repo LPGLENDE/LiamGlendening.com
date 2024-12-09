@@ -40,7 +40,7 @@ body {
 main {
     padding: 20px;
     background-color: #eeeeee;
-    border-radius: 10px;
+    border-radius: 20px 20px 0px 0px;
 }
 
 h1 {
@@ -143,3 +143,35 @@ img {
 #navbar li a:hover {
     color: #eeeeee;
 }
+
+footer {
+    background-color: #a3d3ef;
+    border-radius: 0px 0px 20px 20px;
+    padding: 3px;
+}
+
+#footnav {
+    display: flex;
+    flex: 1;
+}
+
+#footnav ul {
+    list-style: none;
+}
+
+#footnav li {
+    display: inline;
+    padding: 2px;
+}
+
+#footnav li a {
+    list-style: none;
+    color: #ffffff;
+}
+
+#footnav li a:hover {
+    color: #eeeeee;
+}
+
+
+

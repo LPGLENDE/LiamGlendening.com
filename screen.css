@@ -1,4 +1,4 @@
-/* Add screen styles below */
+/* Font pulled from Google Fonts, W3C CSS Checker considers font-optical-sizing: auto and font-weight: auto, as variables that dont exist, althought they seem to be required for font to display properly with CSS */
 .montserrat-font {
     font-family: "Montserrat", serif;
     font-optical-sizing: auto;
